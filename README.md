@@ -1,4 +1,4 @@
-Air Quality Index Forecasting using Prophet(forecasting) python
+Air Quality Index Forecasting using Prophet(forecasting) python :
 
 This repository contains code and documentation for forecasting the Air Quality Index (AQI) using the Prophet model. The project aims to predict future AQI values based on historical data, helping to understand air quality trends and make informed decisions.
 
